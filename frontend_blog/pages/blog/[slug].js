@@ -5,7 +5,7 @@ import ReactMarkdown from 'react-markdown';
 import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { a11yDark } from 'react-syntax-highlighter/dist/cjs/styles/prism';
 import remarkGfm from "remark-gfm";
-import MenImage from '@/public/Men.png';
+import MenImage from '../../public/Men.png';
 import Image from "next/image";
 import { FaDatabase, FaGithub, FaHtml5, FaInstagram, FaTwitter } from "react-icons/fa";
 import { TbBrandNextjs } from "react-icons/tb";

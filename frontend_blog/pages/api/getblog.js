@@ -1,5 +1,5 @@
 import {mongooseConnect} from "../../lib/mongoose";
-import {Blog} from '../../models/Blog';
+import {Blog} from '../../models/blog';
 
 export default async function handle(req, res){
     const {method} = req;
